@@ -8,4 +8,9 @@ class Sample {
 	public void display() {
 		System.out.println("Hello World!!");
 	}
+	
+	
+	publiv void draw() {
+		System.out.println("Sample");
+	}
 }
